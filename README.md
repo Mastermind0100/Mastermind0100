@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+🔭Work in progress... 
+🌱Nothing to see here
+⚡Instead, check out my awesome repositories below!
 <!--
 **Mastermind0100/Mastermind0100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
