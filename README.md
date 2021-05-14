@@ -1,7 +1,6 @@
 ### Hi there 👋
-🔭Work in progress... <br>
-🌱Nothing to see here <br>
-⚡Instead, check out my awesome repositories below!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastermind0100&show_icons=true&theme=radical)
+
 <!--
 **Mastermind0100/Mastermind0100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
