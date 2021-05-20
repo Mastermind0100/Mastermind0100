@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+I am a final year Electrical and Electronics undergraduate at Vellore Institute of Technology, Vellore with a passion for coding and robotics.
+
+### Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastermind0100&show_icons=true&theme=radical)
 
 <!--
