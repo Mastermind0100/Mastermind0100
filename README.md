@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an AI Product Engineer at Goalist, with a passion for coding and robotics.
+I am an AI Product Engineer at [Goalist](https://github.com/goalistdeveloper), with a passion for coding and robotics.
 <br>🔭 I’m currently working on Android, CV, and Robotics projects
 <br>👯 I’d love to collaborate on anything and everything!
 <br>🤔 I’m looking for help with Ruby On Rails. Anyone?
