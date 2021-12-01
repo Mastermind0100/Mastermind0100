@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am a final year Electrical and Electronics undergraduate at Vellore Institute of Technology, Vellore with a passion for coding and robotics.
-<br>🔭 I’m currently working on Android, CV, NLP and Robotics projects
+I am an AI Product Engineer at Goalist, with a passion for coding and robotics.
+<br>🔭 I’m currently working on Android, CV, and Robotics projects
 <br>👯 I’d love to collaborate on anything and everything!
-<br>🤔 I’m looking for help with VR. Anyone out there?
+<br>🤔 I’m looking for help with Ruby On Rails. Anyone?
 <br>💬 Ask me about anything that intrigues you in my Github Profile :)
 <br>📫 How to reach me: <br><br>
 [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Atharva-blue.svg)](https://www.linkedin.com/in/atharva-hudlikar/)
