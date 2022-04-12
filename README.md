@@ -7,7 +7,7 @@ I am an AI Product Engineer at [Goalist](https://github.com/goalistdeveloper), w
 <br>💬 Ask me about anything that intrigues you in my Github Profile :)
 <br>📫 How to reach me: <br><br>
 [![Linkedin](https://img.shields.io/badge/Linkedin-Atharva%20Hudlikar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atharva-hudlikar/)
-[![Twitter-profile](https://img.shields.io/badge/Twitter-Atharva%20Hudlikar-blue?style=for-the-badge&logo=twitter)](https://twitter.com/tall_engineer)
+[![Twitter-profile](https://img.shields.io/badge/Twitter-Atharva%20Hudlikar-9cf?style=for-the-badge&logo=twitter)](https://twitter.com/tall_engineer)
 
 ### Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastermind0100&show_icons=true&theme=radical)
