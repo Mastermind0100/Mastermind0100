@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I am an AI Product Engineer at [Goalist](https://github.com/goalistdeveloper), with a passion for coding and robotics.
-<br>🔭 I’m currently working on Android, CV, and Robotics projects
+I am a student at Nanyang Technological University pursuing MSc in Computer Control and Automation, with a passion for coding and robotics.
+<br>🔭 I’m currently working on Compter Vision, Android and Robotics projects
 <br>👯 I’d love to collaborate on anything and everything!
-<br>🤔 I’m looking for help with Ruby On Rails. Anyone?
 <br>💬 Ask me about anything that intrigues you in my Github Profile :)
 <br>📫 How to reach me: <br><br>
 [![Linkedin](https://img.shields.io/badge/Linkedin-Atharva%20Hudlikar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atharva-hudlikar/)
