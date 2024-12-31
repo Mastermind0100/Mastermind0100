@@ -8,9 +8,6 @@ I am a student at Nanyang Technological University pursuing MSc in Computer Cont
 [![Linkedin](https://img.shields.io/badge/Linkedin-Atharva%20Hudlikar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atharva-hudlikar/)
 [![Twitter-profile](https://img.shields.io/badge/Twitter-Atharva%20Hudlikar-9cf?style=for-the-badge&logo=twitter)](https://twitter.com/tall_engineer)
 
-### Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastermind0100&show_icons=true&theme=radical)
-
 <!--
 **Mastermind0100/Mastermind0100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
